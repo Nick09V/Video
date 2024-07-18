@@ -12,5 +12,6 @@ public class MiVideo {
 
     public static void main(String[] args) {
         System.out.println(" Buenas tardes mundo");
+        System.out.println("nuevo control");
     }
 }
