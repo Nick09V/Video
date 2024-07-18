@@ -11,6 +11,6 @@ package com.mycompany.mivideo;
 public class MiVideo {
 
     public static void main(String[] args) {
-        System.out.println(" Buenas tardes");
+        System.out.println(" Buenas tardes mundo");
     }
 }
